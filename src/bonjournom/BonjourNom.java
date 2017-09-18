@@ -20,6 +20,8 @@ public class BonjourNom {
         System.out.println("Bonjour aaaaa!");
         System.out.println("Bonjour bbbbbb!");
       AfficherHello();
+       System.out.println("Bonjour aaaaa!");
+        System.out.println("Bonjour bbbbbb!");
     }
      public static void AfficherHello(){
         System.out.println("Hello word");
