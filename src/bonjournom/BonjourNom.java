@@ -19,7 +19,9 @@ public class BonjourNom {
         System.out.println("Bonjour John Doe!");
         System.out.println("Bonjour aaaaa!");
         System.out.println("Bonjour bbbbbb!");
-        
+      AfficherHello();
     }
-    
+     public static void AfficherHello(){
+        System.out.println("Hello word");
+        } 
 }
